@@ -1,16 +1,19 @@
-### Hi there 👋
+#Hildebrando
+# Hello, I'm  Hildebrando,
+## Yo soy un persona interesada por la tecnologia.
+Vivo en **Medellin** Colombia 
 
-<!--
-**hildebrandom/hildebrandom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# El bootcamp que estoy aprendiendo 
+## 🙌😉Semana 1
+Configuración del ambiente de desarrollo (Prework)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Instalando Ubuntu en Windows 10/11
+* Instalación de Git
+* Configuración de las llaves SSH
+* Creando una cuenta de GitHub
+* Instalación de Node.js y Yarn
+* Primeros pasos con VS Code
+* Uso básico de la Terminal
+* Conociendo la terminal
+* Comandos alias para la terminal
+* El mundo del Markdown
