@@ -17,3 +17,15 @@ Configuración del ambiente de desarrollo (Prework)
 * Conociendo la terminal
 * Comandos alias para la terminal
 * El mundo del Markdown
+
+# Estos son los 5 comandos
+| Comando | Descripcion                   |
+|---------|-------------------------------|
+|ls       | Lista el contenido            |
+|cd       | Cambiar entre directorios     |
+|yarn     | Instalar Dependencias         |
+|gst      | Alias git status              |
+|clear    | Limpiar la terminal           |
+|alias    | Listar los alias              |
+
+# Estos son los aliados mas usados
